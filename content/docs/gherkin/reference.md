@@ -2,6 +2,7 @@
 title: Gherkin Reference
 subtitle: "Cucumber syntax: Given, When, Then"
 ---
+Gherkin is a basic language with a simple sructure.
 Gherkin uses a set of special [keywords](#keywords) to give structure and meaning to
 executable specifications. Each keyword is translated to many spoken languages;
 in this reference we'll use English.
